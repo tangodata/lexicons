@@ -1,9 +1,15 @@
 ---
+#SOURCES:
 #LOOMIS'S LUSCIOUS LEXICON of TANGO LINGUISTICS
 #A Guide to Tango Terminology/Sacramento Tango/batango
+#TANGO VANCOUVER Susana Domingues
+#TOTANGO.NET
+#CTDALLAS 
+
 
 - 
   term: 8 COUNT BASIC 
+  term2: Basico, Academic Basic
   definition: >
     The first figure usually taught to beginning students after the walking steps. 
     The 8 count basic includes elements which are used throughout the dance, 
@@ -47,23 +53,76 @@
   also: Basico
 -
   term: ABRAZO 
-  definition: The embrace; a hug; or dance position.
+  definition: >
+    Dance hold.
+    The embrace; a hug; or dance position.
+  extended: >
+    In Milonguero style, and Salon style. 
+    Close body contact. The women’s arm is around the shoulders of the man 
+    or behind the man’s back.
+    In  Salon Style the embrace can open slightly to accommodate more complex moves. 
+    The weight is on the balls of the feet for both the man and the woman. 
+    The upper bodies being closer to each other than the feet, is part of 
+    close embrace for Salon style. 
+    The woman and the man have their own axis and share a common third axis
+    in between the contact of their bodies.
+    In milonguero style the woman’s body leans forward on the man’s to 
+    produce very close body contact. The embrace does not change throughout 
+    the dance. The woman’s head is turned to the left. 
+    The woman’s axis is often very forward onto the man’s and is 
+    no longer her own.
+    Open embrace: used in Nuevo tango. 
+    No body contact, very loose informal open arms. 
+    The women’s left hand is holding the man’s arm at or above the elbow. 
 -
   term: ADELANTE 
-  definition: Forward.
+  definition: >
+    Forward.
+    opposite of Atras.
+    Used to describe the direction of ochos.
 -
   term: ADORNO 
-  definition: Adornment; embellishment. 
+  definition: >
+    Adornment; embellishment. 
+    Movements from the man or the women that are unique to each dancer 
+    and come from the individual creativity that adorn or 
+    embellish the dance.
   also: Firulete.
 -
   term: AFICIONADO 
+  term2: Afficionado
   definition: >
     From aficion - liking; amateur; fancier: 
     An enthusiastic admirer or follower; 
     a devotee or a fan of something, such as tango.
 -
+  term: AGUJA
+  definition: >
+    Needle;
+    an effect in the positioning of the man's working foot during a [rulo]: 
+    tip of foot touching floor and heel straight up, knee bent
+    An adornment for the man done with the working foot vertical 
+    with the toe into the floor while pivoting inside a molinete
+-
   term: AL COSTADO 
   definition: To the side.
+-
+  term: Alambrada
+  definition: Guitar
+-
+  term: Alma
+  definition: Soul
+-
+  term: ALTERNATE BASIC
+  definition: >
+    In the Alternate basic both partners use the L for # 3 
+    and the R for # 4. 
+    He may or may not pause for her # 5 but she must cross 
+    L over R for # 5 regardless. 
+    # 6-7-8 resumes in parallel system (regular basic).
+- 
+  term: Alternate System
+  also: Crossed System
 - 
   term: AMAGUE 
   definition: >
@@ -72,22 +131,42 @@
     one's own, and may be used before taking a step. 
     An example of an amague may be a beat ([frappe]) before 
     taking a step. 
+    Sometimes called a [Saludo], it is a woman's embellishment 
+    similar to a 'frappe' (beating motion) in ballet. 
+    It involves quickly crossing one leg in front of, or 
+    behind the other, before taking a step.
   also: Cuatro
 -
+  term: Amor
+  definition: Love
+- 
   term: APILADO STYLE
+  definition: >
+    Piled on: 
+    As used in tango, the reference is to the way a jockey is "piled on" 
+    his horse, when racing—hugging the neck.
+    A vertical A-frame position of two dancers in close embrace. 
   also: Milonguero Style
 -
   term: ARRABAL 
-  definition: The slums.
+  definition: >
+    The slums.
+    Also suburb/neighbourhood in which someone sings or dances tango.
 -
   term: ARRABALERO 
   definition: >
     A person of low social status. 
     A person of simple and direct ways who speaks plainly and uses coarse language.
+- 
+  term: Arranque
+  definition: >
+    A leaders' device to create momentum during a [molinete]. 
+    It occurs when he pauses while leading her to a side step, then 
+    follows with [Entradas].
 -
   term: ARRASTRE 
   definition: >
-    From arrastrar - to drag.
+    From arrastrar - to drag or pull.
   also: Barrida
 -
   term: ARREPENTIDA
@@ -118,6 +197,13 @@
     which are common in Buenos Aires. 
   also: Cuadrado
 -
+  term: Bandoneon
+  definition: >
+    An accordion like musical instrument originally created to provide 
+    missionaries with portable pipe organ music for religious services 
+    in remote locales which has been adopted by tango musicians to 
+    create the mournful and soulful sound of modern tango music.
+-
   term: BARRIDA 
   definition: >
     A sweep; a sweeping motion: 
@@ -135,10 +221,26 @@
     The basic pattern. 
     There are several basic patterns the most common of which is the [8 count basic].
 -
+  term: Bicycle
+  definition: >
+    A woman's embellishment (not led), similar to one backward 
+    peddling motion. 
+    She extends her working leg in the air, bends knee while lifting 
+    knee, places working foot touching the outside of the supporting leg 
+    so legs form the # 4 shape, lowers working foot along supporting leg 
+    until it is crossed over supporting foot
+-
   term: BIEN PARADO
   definition: >
     Well stood (literally), standing straight up. 
   also: pinta, postura
+-
+  term: Bloque
+  definition: >
+    Block: where one dancer blocks the motion of the other's foot.
+-
+  term: Boca
+  definition: Mouth
 -
   term: BOLEO
   definition: >
@@ -147,21 +249,58 @@
     Keeping the knees together, with one leg back, swivel and return on the 
     supporting leg with a whipping action of the working leg. 
     Sometimes spelled [Voleo]. 
+    Is a movement which appears to throw the working leg in a circular motion. 
+    For example, a back boleo can be executed by pivoting the supporting leg 
+    (say R) one direction (CCW) while extended the working foot (L) back, 
+    then quickly changing directions, pivoting CW on the standing leg (R) 
+    before the working foot has completed the extension back. 
+    This creates its characteristic whip effect. 
+    If the working foot is lifted during the pivot CW, this is considered a 
+    high boleo which adds to the appearance of a circular motion. 
+    A front boleo can be executed by pivoting the supporting leg (say R) 
+    one direction (CW) while extended the working foot (L) front, then 
+    quickly changing directions pivoting CCW on the standing leg (R), 
+    while lifting the L foot during the pivot. 
+    To execute the front and back boleo's simultaneously, it is necessary 
+    to join the feet immediately afer each boleo. 
   also: Latigazo
 -
-  term: BRAZOS 
-  definition: Arms.
+  term: Bombilla
+  definition: metal straw to drink mate tea
+-
+  term: BRAZO 
+  definition: Arm.
 -
   term: CABECEO 
   definition: >
     From cabeza; head: 
     Traditional technique for selecting dance partners from a distance at the 
     milongas in Buenos Aires by using eye contact and head movements. 
+  extended: >
+    The cabeceo makes the invitation to dance less stressful as it allows 
+    the invited person to decline discretely.
+    Non-verbal cues are frequently used. 
+    So, as you are getting ready to ask someone to dance, try to catch 
+    their eye, smile and nod. 
+    You might raise your eyebrows in an inquiring expression or directing 
+    a nod towards the dance floor. 
+    Observe their body language. For instance, if you make eye-contact 
+    and the other person quickly turns away, pretends not to see you, 
+    or busies themselves in some way, it means they do not want to dance. 
+    On the other hand, if your potential partner returns your eye-contact 
+    with a smile and/or a nod, you are encouraged to invite them 
+    verbally (ie. "would you like to dance?").
+    When inviting a person who is in the presence of their significant 
+    other, it is courteous to ask their significant other for permission.  
+    Be friendly but not flirtatious and avoid dance moves that are 
+    sexually suggestive. 
+    Avoid monopolizing anyone’s partner with multiple [tandas]
   also: Codigos
 -
   term: CADENA
   definition: >
     The chain; enchainement: 
+    Three or four steps involving change of direction that repeats itself.
     An athletic and very theatrical turning figure which moves rapidly across the 
     floor turning left, in which the couple alternate [amagues] ([cuatros]) or [ganchos]. 
     Another variation involves the man stepping outside left in crossed feet 
@@ -171,6 +310,7 @@
 -
   term: CADENCIA
   definition: >
+    Cadence, rhythm. 
     A deep check and replace, usually led by the man as he steps forward left. 
     Useful for avoiding collisions and making direction changes in small spaces. 
     May also refer to a subtle shifting of weight from foot to foot in place 
@@ -188,13 +328,37 @@
     cross her working leg behind without weight. 
     Caida may be done to either side.
 -
-  term: CALECITA
+  term: CALESITA
+  term2: Calecita
   definition: >
     Carousel; the merry-go-round: 
     A figure in which the man places the lady on one foot with a lifting action 
     of his frame and then dances around her while keeping her centered over, 
     and pivoting on, her supporting leg. 
     Sometimes referred to as the [Stork].
+    A movement in which the man leans the lady's axis on his and steps 
+    around her placing all his steps equidistant to her supporting leg. 
+    If he steps further away from her supporting leg during the calesita 
+    it creates a deeper angle and is often called Carpa (tent).
+-
+  term: Calle
+  definition: Street
+-
+  term: CAMBIO DE FRENTE
+  definition: >
+    Change of Front.
+    Simply involves facing a new direction. 
+    However, some teachers use the term to specifically refer to a 
+    particular method of turning for the leader in which he pivots 
+    both feet CW (or both feet CCW) at the same time. 
+    For a 90 degree turn, he begins in parada position and 
+    pivots until he stands straight with both feet apart 
+    (or vice versa: start standing, end in parada position). 
+    For a 180 turn, he begins in parada position, reaches 
+    standing position at 90 degrees but continues turning until 
+    he is once again in the parada position. 
+    Frequently accompanies the woman's molinete, this effect 
+    creates an interesting cadence in her movement
 -
   term: CAMINADA 
   definition: The walking steps; a walking step.
@@ -239,6 +403,9 @@
     A repetitive pattern of walking steps and or sacadas in which the man 
     advances turned nearly sideways to his partner.
 -
+  term: Cantar
+  definition: Sing
+-
   term: CANYENGUE
   definition: >
     A very old style of tango from the 1900s to the 1940s. 
@@ -277,6 +444,7 @@
     A figure created when the man leads the lady onto one foot as in [calecita]
     and then steps back away from her, causing her to lean at an angle from 
     her foot to his frame.
+  also: Calesita
 -
   term: CASTIGADA
   definition: >
@@ -305,15 +473,28 @@
     dance partner in the milongas in Buenos Aires. 
   also: Cabeceo
 -
+  term: Codo
+  definition: Elbow
+-
+  term: Colgada
+  definition: >
+    A hanger -
+    when the follower's axis is tilted (away from the leader). 
+    A spinning move executed by a couple at the end of an inside barrida 
+    in which both dancers lean out away from each other and spin rapidly 
+    until the man leads out with a back step. 
+-
   term: COMPADRE 
   definition: >
     A responsible, brave, well behaved, and honorable man of the working class
     who dresses well and is very Macho.
+    A person living in the suburb, haughty, proud and brave
 -
   term: COMPADRITO
   definition: >
     Dandy; hooligan; street punk; ruffian: 
     They invented the Tango.
+    Typical character of the suburb, a bully and a braggart 
 -
   term: COMPAS
   definition: Beat, as in the beat of the music.
@@ -328,6 +509,42 @@
   definition: >
     May refer to a smooth and simple Salon Style as in [Tango Liso] or
     to [Milonguero Style].
+-
+  term: Contra-Enrosque
+  definition: >
+    A leader's inside or outside turn which has been embellished by 
+    tucking one foot close in front of the other during his pivot. 
+    This creates the appearance of a turning coil, like the 
+    turning stripes of a barber shop sign or the threading of a screw. 
+    He can further this illusion on an outside turn by immediately 
+    following with a transfer of weight and a back sacada. 
+    He can further this illusion on an inside turn by 
+    immediately following with a [lapiz] using the foot that was 
+    tucked in front. 
+    Contra Enrosque is executed while the follower dances the [molinete]. 
+  also: Enrosque   
+-
+  term: Contrapaso
+  definition: >
+    A step produced when you lock one foot behind the other. 
+    For instance right foot steps forward, left foot locks behind right. 
+    Now right foot steps forward again. 
+    This can be done in single or double time, in one instance or repetitively. 
+  also: Rabona, Traspie
+-  
+  term: Conventillo
+  definition: >
+    A house that is shared between multiple families, commonly
+    found in the neighbourhood of early immigrants
+    Boarding houses in the suburbs of Buenos Aires in which the 
+    immigrant population was housed. 
+    It consisted of many rooms around a central courtyard with a 
+    common cooking area. 
+    The space for Saturday night "jam sessions" and dances where 
+    the milonga and the tango were born. The cradle of Milonga! 
+-
+  term: Corazon
+  definition: Heart
 -
   term: CORRIDA 
   definition: >
@@ -366,6 +583,12 @@
     Occurs whenever the couple are stepping together on his and her right feet 
     and then on his and her left feet, regardless of direction. 
     The opposite of parallel feet.
+- 
+  term: Crossed System
+  definition: >
+    Crossed System or Alternate System occurs when both partners move 
+    the R at the same time or the L at the same time. 
+  also: Alternate Basic
 -
   term: CRUZADA 
   definition: >
@@ -409,14 +632,26 @@
     left or right leg forward, and repeated as desired. 
   also: Hamaca
 -
+  term: Dedo
+  definition: Toe or finger
+-
+  term: Derecha
+  definition: Right (opposite of Left Izquierda)
+-
   term: DERECHO
   definition: Erect, straight. 
   also: Postura
+-
+  term: Despacio
+  definition: Slowly
 -
   term: DESPLAZAMIENTO 
   definition: >
     Displacement: 
     Displacing the partner's leg or foot using one's own leg or foot. 
+    A loosely used term which refers to a dancer occupying their 
+    partner's previous space (not necessarily their exact previous axis). 
+    It is always happening in Tango, even in the basic walk. 
   also: Sacada
 -
   term: DIBUJO 
@@ -425,6 +660,9 @@
     A dibujo is done by drawing circles or other small movements on the floor 
     with one's toe.
   also: Firulete, Lapiz, Rulo.
+-
+  term: Doble tiempo
+  definition: doubletime
 -
   term: EJE 
   term2: (pronounced ay-hay) 
@@ -439,6 +677,10 @@
     Once tango went uptown enough to actually be danced on floors (wood, tile, or marble) 
     the dancers fell in love with the floor, thus we now refer to 'caressing the floor'.
 -
+  term: Embutido
+  definition: >
+    Filler or inlay: a foot swinging behind other foot after an [enrosque]. 
+-
   term: ENGANCHE 
   definition: >
     Hooking; coupling; the little hook: 
@@ -450,23 +692,40 @@
     From enroscar - to coil or twist: 
     While the lady dances a [molinete], the man pivots on his supporting foot, 
     hooking or coiling the working leg behind or around in front of the supporting leg.
+    A leader's outside turn which has been embellished by tucking one 
+    foot close behind the other during his pivot. 
+    This creates the appearance of a turning coil, like the turning 
+    stripes of a barber shop sign or the threading of a screw. 
+    He furthers this illusion by immediately following with a 
+    transfer of weight and [lapiz]. 
+    Enrosque is executed while the follower dances the [molinete].
 -
   term: ENTRADA 
   definition: >
     Entrance: 
     Occurs when a dancer steps forward or otherwise enters the space between their 
     partners legs without displacement.
+    Occurs when the dancer occupies their partner's previous axis by 
+    stepping inside the partner's trailing foot during their [molinete]. 
+    This term is more specific than [sacada] or [displacement], 
+    though often interchanged.
 -
   term: ENTREGARME
   definition: >
     Surrender, yield: 
     To give oneself up to the leader's lead.
 -
+  term: Espalda
+  definition: Back of torso
+-
   term: ESPEJO 
   definition: >
     Mirror: 
     To mirror the movement of ones partner as in "[Ochos en espejo]", 
     a figure where the man and woman both do forward [ochos] at the same time.
+-
+  term: Estrella
+  definition: Star
 -
   term: FANFARRON
   definition: >
@@ -475,6 +734,17 @@
     Boisterous behavior. 
   also: Golpecito
 -
+  term: Farolito
+  definition: >
+    The Light; 
+    The farol is a street lamp specific to Buenos Aires which 
+    produces a circular sphere of light. 
+    The term in tango refers to the man sweeping his foot to draw
+    the sphere of light
+-
+  term: Feliz
+  definition: Happy
+-
   term: FIRULETE
   definition: >
     An adornment; a decoration; an embellishment: 
@@ -482,20 +752,66 @@
     their skill and to interpret the music. 
   also: adorno, lapiz
 -
+  term: Flor
+  definition: Flower
+-
   term: FRENO
   definition: >
     To stop and hold; brake.
 -
+  term: Fueye
+  definition: Bellows, a Bandoneon
+-  
   term: GANCHO
   definition: >
     The hook: 
     Occurs when a dancer hooks a leg sharply around and in contact with their partners leg 
     by flexing the knee and releasing. 
     May be performed to the inside or outside of either leg and by either partner.
+    Occurs when a dancer's knee bends to wrap or hook around partner's leg. 
+    One should not execute a gancho when the working leg is not in contact 
+    with the partner's leg. 
+    If a woman is not in contact with the partner's leg when lead to a 
+    gancho, she can do an [amague] instead.
+-
+  term: Gancho Pasajero
+  definition: >
+    Passenger hook.
+    Is a hook (gancho) that is executed on the way to another step. 
+    The working leg appears to wrap over the partner's leg while 
+    hooking, then releases and proceeds to the next step
+-
+  term: Garcha
+  definition: >
+    A rather rude lunfardo term to be used only among friends; 
+    noun, 1. penis, pija masculino; 
+    2. worthless or of bad quality, trucho comprar; 
+    3. bad luck: 
+    ¡Qué garcha! This sucks! cagada malo garchar; 
+    verb, 'to screw' coger sexo. 
+    In tango, it may refer to a blind step against line of dance 
+    causing a collision for your partner, a garcha! 
+    May also be used as a pejorative, as in "Politicians are all garchas!" 
+    Akin to "screw-off" or "screw-up" in English slang. 
+-
+  term: Gaucho
+  definition: >
+    The Argentine Cowboy. 
+    The folklore of Argentina centers around this figure. 
+    Martin Fierro written by Jose Hernandez is the bible to read 
+    in order to understand this personnage from the history of 
+    Argentina and Tango 
 -
   term: GIRO 
   definition: >
     Turn: A turning step or figure.
+    While woman does molinete, man turns on one foot placing the toe 
+    of the foot in front and executing a sharp turn.
+-
+  term: Golden age of tango
+  definition:
+    The period from 1935s-1950s when tango experienced particluar 
+    high popularity.  La Epoc de Oro 
 -
   term: GOLPECITOS 
   definition: >
@@ -514,11 +830,19 @@
   definition: A [lunfardo] term for woman. 
   also: mina
 -
+  term: Guardia Vieja
+  definition: >
+    The Old Guards.
+    A period in the history of tango, 1866 to 1920. 
+-
   term: GUAPO
   definition: >
     Handsome: 
     A respectable and desirable man. 
     A [compadre].
+-
+  term: Guiar
+  definition: To guide, also to lead. 
 -
   term: HABANERA
   definition: >
@@ -526,8 +850,30 @@
     commonly used by the man as he leads backward ochos for the lady in crossed feet. 
     An Afro-Cuban dance from the mid 19th century which contributed to Tango.
 -
+  term: Hablar
+  definition: To speak, talk
+-
+  term: Hombro
+  definition: Shoulder
+-
   term: HAMACA 
-  definition: Another term for [Cunita].
+  also: Cunita
+-
+  term: Izquierda
+  definition: Left (opposite of Right Derecha)
+- 
+  term: Inclinada
+  definition: Tilt, tilting.
+  also: Carpa, Puente
+-
+  term: Intrusiones
+  definition: >
+    Adornos where you put your foot or leg between your partner's legs. 
+    Sometimes this is just a brief kick. 
+    Sometimes you'll use your foot or leg to push against one of your 
+    partner's feet or legs. 
+    When beginning tango the man does the intrusions but as dancers 
+    become more advanced women may do them too   
 -
   term: JUNTA 
   definition: >
@@ -544,15 +890,30 @@
     working foot, while turning or waiting on the supporting foot. 
     These may vary from small adornments done while marking time to large sweeping 
     arcs which precede the lady as she moves around the man in molinete. 
+    While supporting leg pauses, working leg executes an arc shaped figure 
+    lightly along the floor during her [molinete].
   also: Dibujo, Firulete, Rulo
 -
   term: LATIGAZO 
+  term2: Latigo
   definition: >
     Whip. 
-    Describes a whipping action of the leg as in a boleo.
+    Describes a whipping action of the leg as in a [boleo].
+  also: boleo
 -
   term: LENTO 
   definition: Slowly.
+-
+  term: Lindo
+  term2: Linda
+  definition: Pretty, cute
+- 
+  term: Line of Dance
+  definition: >
+    Since tango is a walking and turning dance, the 
+    set direction for group movement is CCW. 
+    CW turning is of course allowed but in time, each couple 
+    should progress forward along LOD. 
 -
   term: LISO 
   definition: >
@@ -565,22 +926,77 @@
     to the next step. 
     [Barridas] interspersed with walking steps in which the man takes the lady 
     with him across the floor.
+  also: Barrida
+-
+  term: Luna
+  definition: Moon
 -
   term: LUNFARDO
   definition: >
     The Spanish slang of the Buenos Aires underworld which is common in 
     tango lyrics and terminology.
+  extended: >
+    The same way as lawyers, doctors, physicists, chemists, etc. have their 
+    peculiar language and terminology, thieves needed a language that was 
+    cryptic, secretive enough to speak among themselves and at the same 
+    time was unintelligible for the police or the possible victim of their 
+    actions. 
+    A language to be used in prison that could not be understood by the guards.
+    This originated terms and expressions that formed a new language, that
+    of thieves and jail inmates.
+    The secret tongue of "lunfardos", term used by thieves to refer to
+    themselves. 
+    In this way watch became "bobo" (dumb-stupid) due to two characteristics, 
+    it is very easy to steal and it works all day long non-stop. 
+    Lunfardo is rich in Italian dialectal terms and also French words.
+    The first manifestations of this language appeared in Buenos Aires 
+    around 1880 ( police and newspapers archives).
+    This new terminology invaded the familiar language of the 
+    [conventillos] dwellers and very slowly the language of men 
+    (it was not used at home or by women), finally became something 
+    characteristic of being Porteño and Argentine. 
+    It was spread by theater in its "Sainetes", a peculiar genre 
+    that depicts life in [conventillos]; it was used by poets; 
+    but the greatest means of diffusion was not literature but 
+    its use in Tango Lyrics.
+-
+  term: Lunge
+  definition: >
+    Right Lunge: In closed position, trail feet free, 
+    lower into the left knee and step side and forward onto the 
+    right, keeping the left side in toward your partner and your 
+    body upright. 
+    Don't lean over your partner. 
+    As you take weight on the right, lower into the right 
+    knee and turn slightly LF to close her head. 
 -
   term: LUSTRADA 
   definition: >
     From lustrar - to shine or polish; the shoe shine: 
     A stroking of the man's pant leg with a shoe. 
-    May be done by the lady or by the man to himself but is never done to the lady.
+    May be done by the lady or by the man to himself but is never 
+    done to the lady.
+-
+  term: Luz
+  definition: The light
+-
+  term: Malevo
+  term2: Maleva
+  definition: ruffian
+-
+  term: Mano
+  definition: Hand
 -
   term: MARCAR
+  term2: La Marca
   definition: >
     From Marque; to plot a course; guide: 
     To lead. (la marca = the lead)
+-
+  term: mate
+  definition: >
+    (pron. Ma Te)
+    Native tea drank by the Argentinians
 -
   term: MEDIA LUNA 
   definition: >
@@ -608,6 +1024,9 @@
     to the dance which preceded the tango, or 
     to the dance salon where people go to dance tango, or 
     to a tango dance and party.
+    Has 2 meanings: 
+    1) a tango social 
+    2) a related Argentine music and dance which preceded tango as we know it
 -
   term: MILONGUERO 
   term2: (feminine; Milonguera)
@@ -631,6 +1050,15 @@
     This style relies on music of the more rhythmic type as characterized by 
     orquestas like those of D'Arienzo or Tanturi.
 -
+  term: Milonguita
+  definition: >
+    Questionably, an affectionate diminutive for the milonga. 
+    Milonguita is also a name used for the young girls brought from 
+    eastern Europe and France (Madame Yvonne) with the 
+    promise to marry a rich Argentinean, or the poor girls from the 
+    conventillos, all of whom ended up as a hostess’ or prostitutes 
+    in the tango bars. 
+-
   term: MINA 
   definition: >
     A lunfardo word for woman. 
@@ -641,12 +1069,22 @@
     From mirar - to look; see; observe; take notice: 
     Look at this. Observe.
 -
-  term: MOLINETE 
+  term: MOLINETE
+  term2: Grapevine
   definition: >
     Windmill; wheel: 
     A figure in which the lady dances a grapevine on a circumference around the man, 
     stepping side-back-side-forward using forward and back ocho technique and 
     footwork, as the man pivots at the center of the figure.
+    Pattern in which side steps separate alternating front and back steps: 
+    ie frontL-sideR-backL-sideR-frontL-sideR..
+-
+  term: Molinete con Sacada
+  definition: >
+    An exciting and more complicated form of molinete in which the 
+    man steps into the lady’s space, displacing her leg with his, 
+    and pivots on a new center to face her as she continues around him. 
+    Many combinations are possible. 
 -
   term: MORDIDA 
   definition: >
@@ -658,6 +1096,17 @@
   term: MORDIDA ALTO 
   definition: >
     A variation in which a dancer catches a partners knee between both of their own.
+-
+  term: Muerte
+  definition: death
+-
+  term: Neotango
+  definition: >
+    Increasingly used term associated with music and dancing to 
+    tango fusion or non-tango tracks. the latest mutation of tango nuevo
+-
+  term: Noche
+  definition: Night
 -
   term: OCHO
   definition: >
@@ -683,11 +1132,13 @@
     interpretation of rhythmic music while dancing in a confined space.
 -
   term: OCHO DEFRENTE 
+  term2: ocho adelante
   definition: >
     Ocho to the front: 
     Forward ochos for the lady (i.e., crossing in front).
 -
   term: OCHO PARA ATRAS 
+  term2: ocho atras
   definition: >
     Ocho to the back: 
     Back ochos for the lady (i.e., crossing behind).
@@ -697,6 +1148,9 @@
     Ochos in the mirror: 
     The man and the lady execute forward or back ochos simultaneously, 
     mirroring each others movement.
+- 
+  term: Ojos
+  definition: Eyes
 -
   term: ORILLERO 
   definition: Outskirts; suburban.
@@ -737,12 +1191,19 @@
     The man may extend his foot to touch her forward foot as an additional cue and element 
     of style or he may pivot and step back to mirror her position (fallaway).
 -
+  term: Parada Position
+  definition: >
+    supporting leg bent, other leg extended in front, knees together
+-
   term: PARALLEL FEET 
   definition: >
     The natural condition when a couple dance in an embrace facing each other, 
     the man stepping on his left, the lady on her right foot, and then the man 
     stepping on his right, the lady on her left foot, regardless of direction. 
     The opposite of crossed feet.
+-
+  term: Pareja
+  definition: couple, pair
 -
   term: PASADA 
   definition: >
@@ -772,6 +1233,18 @@
     A lunfardo word for young woman or girl. 
   also: mina, paicas
 -
+  term: Pecho
+  definition: Chest
+-
+  term: Pecho Argentino
+  definition: A social Tango from the 50's, with simple vocabulary but not limited.
+-
+  term: Pelo
+  definition: Hair
+-
+  term: Peso
+  definition: The Weight
+-
   term: PICADOS
   definition: >
     A flicking upward of the heel when turning or stepping forward. 
@@ -790,6 +1263,12 @@
     Includes clothes, grooming, posture, expression, and manner of speaking 
     and relating to the world. 
   also: bien parado
+-
+  term: Pisar
+  definition: to step
+- 
+  term: Piso
+  definition: Floor
 -
   term: PISTA
   definition: The dance floor.
@@ -811,6 +1290,9 @@
     lead and dances around her while pivoting her on the supporting leg as her extended 
     leg either trails or leads. 
     Can be done by either the man or the lady.
+    Occurs when one holds the [quebrada position] (working leg pauses) 
+    while pivoting on supporting foot during several steps of the 
+    partner's [molinete]
 -
   term: PORTENO 
   term2: (feminine; Portena) 
@@ -824,8 +1306,28 @@
     over the toes and balls of the feet. 
   also: derecho, eje
 -
+  term: Pregunar
+  definition: Question
+-
+  term: Potranca
+  definition: >
+     Young female racehorse: 
+     Sometimes used to refer to a beautiful long-legged Argentine woman. 
+-
   term: PRACTICA 
   definition: A practice session for tango dancers.
+-
+  term: Puente
+  definition: Bridge
+  also: Carpa, Inclinada
+-
+  term: Punteo
+  definition: >
+    Point; with the point; peck: 
+    Rhythmic toe taps to the floor done with the toe, or 
+    point, of the shoe while the foot is moving over the 
+    floor in a sweeping movement as in boleo or planeo. 
+  also: Golpes
 -
   term: QUARTAS 
   definition: >
@@ -844,6 +1346,14 @@
     Also a position in which the dancer's upper body and hips are rotated in 
     opposition to each other with the working leg flexed inward creating a broken dance line.
 -
+  term: Quebrada position
+  definition: >
+    Breaking position;
+    supporting leg bent, other leg extended behind or beside with foot touching the floor, knees apart
+-
+  term: Querido
+  definition: dear, beloved. From Querer (want)
+-
   term: RABONA
   definition: >
     A walking step with a syncopated cross. 
@@ -851,6 +1361,15 @@
     foot in cruzada, and steps again on the next beat. 
     Adopted from soccer. 
   also: traspie
+-
+  term: Rapido
+  definition: >
+    Fast. Usually heard "mas rapido." 
+-
+  term: Rebote
+  definition: >
+    Rebound: 
+    the dancers rebound from their step without fully changing weight. 
 -
   term: RESOLUCION 
   definition: >
@@ -868,6 +1387,15 @@
   term: RODILLAS
   definition: Knees.
 -
+  term: Ronda
+  definition: >
+    (La ronda) Line of dance: Refers to the 
+    etiquette of dancing in the line of dance by moving counter 
+    clockwise around the dance floor, and using concentric lanes 
+    in the traffic to facilitate dancing in close proximity 
+    with one another. 
+  also: Codigos
+-
   term: RULO
   definition: >
     A curl: 
@@ -875,6 +1403,10 @@
     [firulete] ahead of the lady, curls his foot in around the lady 
     and extends it quickly to touch the her foot. 
     An older term for [lapiz].
+    While supporting leg pivots, working leg executes a curl shaped 
+    figure lightly along the floor. 
+    It accompanies a change of direction (ie. CW to CCW) at the beginning 
+    or end of her [molinete]
 -
   term: SACADA
   definition: >
@@ -882,6 +1414,11 @@
     leg or foot. 
     Occurs when a dancer places their foot or leg against a leg of their partner and 
     transfers weight to their leg so that it moves into the space of and displaces the partner's leg. 
+    Occurs when the dancer appears to remove a partner's trailing leg. 
+    It is not limited to the circumstances of an entrada ie not limited to: 
+    1) involving a molinete 
+    2) stepping inside the partner's trailing foot 
+    3) occupying the partner's previous the axis.
   also: Desplazamiento
 -
   term: SALIDA
@@ -890,6 +1427,15 @@
     The first steps of dancing a tango, or a tango pattern, 
     derived from "�Salimos a bailar?" 
     {Shall we (go out to the dance floor and) dance?}.
+    Take-off;
+    the start of pattern or sequence. ie # 1-5 of the 8 count basic are considered a salida
+-
+  term: Salida Cruzada
+  definition: >
+    In the Salida Cruzada partners dance to # 5 of the basic, 
+    however both partners use the L for # 3 and the R for # 4. 
+    He may or may not pause for # 5 but she must cross L over R 
+    for # 5 regardless.
 -
   term: SALIDA DE GATO
   definition: >
@@ -903,10 +1449,26 @@
   term: SALTITO
   definition: A little Jump.
 -
-  term: SANDWICH
+  term: Salon
+  definition: >
+    A Hall.
+    Style of tango best suited for social dancing. 
+    Always following line of dance, being aware and be courteous to others.
+-
+  term: Salto
+  definition: >
+    Jump (saltito - little jump): 
+    Leading your partner/yourself into a jump.
+-  
+  term: Saludo
+  definition: Front leg wipe
+  also: Amague
+-
+  term: SANDWICHE
   also: Mordida
 -
-  term: SANGUCHITO
+  term: SANGUICHITO
+  term2: sandwichito
   also: Mordida
 -
   term: SEGUIDILLAS
@@ -924,11 +1486,23 @@
     or actually mounts, the man's leg. 
     Frequently used as a dramatic flourish at the end of a dance.
 -
+  term: Soltada
+  definition: >
+    Untying, to let go: steps where the embrace is broken.
+-
   term: STORK 
+  definition: >
+    Same as Calecita.
+    Not used often or much recommended but refers to a position 
+    of the lady where the working leg is held with the lower leg 
+    lifted and horizontal in a figure four, 
+    or cuatro, position. 
   also: Calecita
 -
   term: SUAVE 
-  definition: Smooth, steady and gentle, soft, stylish.
+  definition: >
+    Smooth, steady and gentle, soft, stylish.
+    A major objective in tango. 
 -
   term: SYNCOPATION
   definition: >
@@ -948,6 +1522,9 @@
     A milonga step in which the couple dance forward-together and back-together 
     in outside right position with a pendulum action of the hips. 
   also: Ven y Va
+-
+  term: Taco
+  definition: Heel
 -
   term: TANDA
   definition: >
@@ -978,8 +1555,12 @@
     the embrace is flexible, opening slightly to make room for various figures and 
     closing again for support and poise.
 -
+  term: Tango Escenario
+  also: Tango fantasia
+-
   term: TANGO FANTASIA 
   definition: >
+    Stage Tango
     This is a hybrid tango, an amalgam of traditional tango steps, ballet, 
     ballroom, gymnastics, ice-skating figures, etc. 
     This is what most people see when they buy tickets for a tango show. 
@@ -992,6 +1573,9 @@
     bump into, or trip every other dancer on the floor. 
     This behavior is NOT socially acceptable.
 -
+  term: Tango fusion
+  definition: A fusion of tango music with other music genres. 
+-
   term: TANGO LISO 
   definition: >
     Literally, tango smooth: 
@@ -1000,6 +1584,20 @@
     molinetes, etc., are utilized. 
     Boleos, ganchos, sacadas, sentadas, and other fancy moves and acrobatics are not done. 
     A very early term for Tango de Salon.
+-
+  term: Tango nuevo
+  definition: >
+    (dance)
+    Covers the entire range of leadable argentine tango moves; 
+    it is particularly apparent when danced in complex combinations 
+    envolving saccadas, boleos, ganchos, colgadas, volcadas etc.; 
+    open style is easier and more popular. 
+    The very basics are the open step, front and back cross which 
+    represent together with the giro "the base" of argentine tango 
+    as taught using the proven system of tango nuevo.
+    (music)
+    Associated with the tango music from the 1950s, 1960s and 
+    later (e.g. Piazzolla, Pugliese) that came after the golden age era. 
 -
   term: TANGUERO 
   term2: (feminine; Tanguera) 
@@ -1013,6 +1611,12 @@
     such as stage dancers, who are quite disdained by real milongueros and tangueros, 
     unless they go the extra distance and become milongueros by going to the milongas, 
     and/or tangueros as well. An aficionado.
+-
+  term: Tent
+  also: Calesita
+-
+  term: Tiempo
+  definition: time
 -
   term: TIJERA 
   definition: >
@@ -1031,8 +1635,16 @@
   definition: Hesitation. 
   also: pausa
 -
+  term: Tobillo
+  definition: ankle
+-
   term: TRABADA 
-  definition: Another term for Cruzada.
+  definition: >
+    Another term for Cruzada.
+    Fastened. It is a lock step - the step that the woman takes when 
+    man steps outside with his right foot and then straight forward left, 
+    together right. 
+    At this point the woman crosses and this cross is referred to as trabada 
 - 
   term: TRASPIE 
   definition: >
@@ -1041,6 +1653,12 @@
     Using two beats of music the dancer does step-cross-step beginning with 
     either foot and moving in any direction. 
   also: rabona
+-
+  term: truco
+  definition: >
+    Trick or stunt: 
+    May be used to describe fancy athletic movements in addition 
+    to lifts for stage or tango fantasia. 
 -
   term: VALS 
   definition: >
@@ -1068,11 +1686,21 @@
     and takes a sacada to first her left and then her right legs in succession 
     using a back and forth slithering motion of the right leg and foot.
 -
+  term: Volcada
+  definition: >
+    From Volcar - to tip-over or capsize; 
+    a falling step: 
+    The leader causes the follower to tilt or lean forward and 
+    fall off her axis before he catches her again. 
+    The process produces a beautiful leg drop from her. 
+    The movement requires the support of a close embrace. 
+-
   term: VOLEO
   also: Boleo
 -
   term: YUMBA 
   also: >
+    (pron. zhoom-ba)
     A phonetic expression that describes the powerful, dramatic, and 
     driving musical accent of a moderate or even slow tempo which is 
     characteristic of the music of Osvaldo Pugliese.
