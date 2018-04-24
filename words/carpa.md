@@ -1,0 +1,15 @@
+---
+term: Carpa
+synopsis:
+dictionary:
+cat: Embrace
+skill: S
+also:
+related:
+---
+The tent
+
+A figure created when the man leads the lady onto one foot as
+in [calecita]
+and then steps back away from her, causing her to lean at
+an angle from her foot to his frame.

@@ -1,0 +1,343 @@
+WORD,CATEGORY,LEVEL
+Adorno,Adorno,
+Caricia,Adorno,S
+Castigada,Adorno,S
+Chiche,Adorno,S
+Decoration,Adorno,
+Dibujo,Adorno,S
+Embellishment,Adorno,
+Embutido,Adorno,
+Fanfarron,Adorno,
+Firulete,Adorno,
+Golpe,Adorno,
+Golpecito,Adorno,
+Lapiz,Adorno,S
+Lustrada,Adorno,S
+Patada,Adorno,S
+Picada,Adorno,
+Pique,Adorno,
+Punteo,Adorno,S
+Saludo,Adorno,S
+Zapatazo,Adorno,S
+Zarandeo,Adorno,
+Boleadoras,Argentina,
+Malambo,Argentina,
+Malbec,Argentina,
+Mate,Argentina,
+Remises,Argentina,
+Boca,Body,
+Brazo,Body,
+Cabeza,Body,
+Cintura,Body,
+Cucaracha (cockroach) Pivot,Body,
+Cuerpo,Body,
+Dedo,Body,
+Dissociation,Body,
+Eje,Body,
+Elastic Movement,Body,
+Espalda,Body,
+Espiral,Body,
+Flexion,Body,
+Intention,Body,
+Mano,Body,
+Ojo,Body,
+Pecho,Body,
+Peso,Body,
+Pie,Body,
+Pie Activo,Body,
+Pie Soporte,Body,
+Pierna,Body,
+Position Zero,Body,
+Postura,Body,
+Projection,Body,
+Promenade Position,Body,
+Rodilla,Body,
+Sombrero (Fedora Hat),Body,
+Zapato,Body,
+Aguja,Circle,S
+Calesita,Circle,S
+Carousel,Circle,
+Enrosque,Circle,S
+Girada,Circle,
+Giro,Circle,S
+Media Luna,Circle,S
+Media Vuelta,Circle,
+Medio Giros,Circle,
+Ochos,Circle,
+Ochos Adelante,Circle,S
+Ochos Atras,Circle,S
+Overturn Ochos,Circle,S
+Pivot,Circle,
+Planeo,Circle,S
+Rulo,Circle,S
+Vuelta,Circle,
+Besos,Codigo,
+Cabeceo,Codigo,
+Chamuyo,Codigo,
+Codigo,Codigo,
+Cortina,Codigo,
+Line of Dance,Codigo,
+Milongueando,Codigo,
+Mirada,Codigo,
+Navigation,Codigo,
+Onda,Codigo,
+Piropo,Codigo,
+Ronda,Codigo,
+Tanda,Codigo,
+Trasnoche,Codigo,
+Adelante,Direction,
+Alto,Direction,
+Apertura,Direction,
+Atras,Direction,
+Bajo,Direction,
+Costado,Direction,
+Derecha,Direction,
+Derecho,Direction,
+Izquierda,Direction,
+Junto,Direction,
+Abierto,Embrace,
+Abrazo,Embrace,
+Abrazo Abierto,Embrace,S
+Abrazo Al Reves,Embrace,S
+Abrazo Cerrado,Embrace,S
+Accompanimiento,Embrace,
+Albanico,Embrace,S
+Apilado,Embrace,S
+Blindside,Embrace,
+Cambio Pareja,Embrace,
+Carpa,Embrace,S
+Cerrado,Embrace,
+Ciego (Blind) Tango,Embrace,
+Colgada,Embrace,S
+Connection,Embrace,
+Cuarta,Embrace,S
+Doble Frente,Embrace,
+Entregarme,Embrace,
+Espejo,Embrace,
+Inclinada,Embrace,
+Marca,Embrace,
+Pocket,Embrace,
+Puente,Embrace,
+Quebrada,Embrace,
+Soltada,Embrace,S
+Stork,Embrace,
+Tangasm,Embrace,
+Tomada,Embrace,S
+V-Shape Embrace (Fan),Embrace,
+Volcada,Embrace,S
+Al Reves,Embrace,
+Americano,Embrace,
+Boleo,Exclaim,S
+Latigazo,Exclaim,S
+Latigo,Exclaim,
+Palanca,Exclaim,S
+Saltito,Exclaim,S
+Salto,Exclaim,S
+Sentada,Exclaim,S
+Tijera,Exclaim,S
+Truco,Exclaim,
+Voleo (= Boleo),Exclaim,S
+Arrastre,Intersect,S
+Atrapadita,Intersect,S
+Back Sacada,Intersect,S
+Barrida,Intersect,S
+Bicicleta,Intersect,S
+Bloque,Intersect,S
+Cuatro,Intersect,
+Cucharita,Intersect,S
+Dezplazamiento,Intersect,S
+Empujadita,Intersect,
+Enganche,Intersect,S
+Gancho,Intersect,S
+Gancho Pasajero,Intersect,S
+Hamaca,Intersect,
+Llevada,Intersect,S
+Montada,Intersect,
+Mordida,Intersect,
+Parada,Intersect,S
+Pasada,Intersect,S
+Piernazo,Intersect,S
+Pulpeada (Chained Engache),Intersect,S
+Sacada,Intersect,S
+Sandwich,Intersect,S
+Sanguchito,Intersect,
+Toque,Intersect,
+Viborita,Intersect,
+3-3-2 Syncopation,Music,
+Adagio,Music,
+Alternative Tango,Music,
+Apache (early tango),Music,
+Bandoneon,Music,
+Candombe,Music,
+Canyengue,Music,
+Chacarera,Music,
+Chan Chan,Music,
+Compas,Music,
+Contratiempo,Music,
+Despacio,Music,
+Doble Tiempo,Music,
+Dramatic,Music,
+Dynamics,Music,
+Epoca de Oro,Music,
+Estrabillista,Music,
+Folclore,Music,
+Frasas,Music,
+Fueye,Music,
+Guardia Viejo,Music,
+Habanera,Music,
+Lento,Music,
+Letras,Music,
+Lyrical,Music,
+Marcato,Music,
+Milonga (music),Music,
+Murga,Music,
+Musicalidad,Music,
+Neotango,Music,
+Orquesta Tipica,Music,
+Polka,Music,
+Remate,Music,
+Rentintin,Music,
+"Rhythmical (Smooth, Hard, Soft)",Music,
+Ritmo,Music,
+Rubato,Music,
+Sincopa,Music,
+Sincopacion,Music,
+Suave,Music,
+Tiempo,Music,
+Titubeo,Music,
+Traspie,Music,
+Vals,Music,
+Yumba,Music,
+BIAGI,Name,
+CALO,Name,
+CANARO,Name,
+CARABELLI,Name,
+COLOR TANGO,Name,
+DAGOSTINO,Name,
+DARIENZO,Name,
+DEANGELES,Name,
+DECARO,Name,
+DEMARE,Name,
+DISARLI,Name,
+DONATO,Name,
+FIRPO,Name,
+FRESEDO,Name,
+GARCIA,Name,
+LAURENZ,Name,
+LOMUTO,Name,
+MALERBA,Name,
+PIAZZOLLA,Name,
+PICHUCO (TROILO),Name,
+PUGLIESE,Name,
+RODRIGUEZ,Name,
+SALGAN,Name,
+SEXTETO MAYOR,Name,
+TANTURI,Name,
+TROILO,Name,
+TUBATANGO,Name,
+VICTOR,Name,
+Aficionado,People,
+Arrabalero,People,
+Bailamos,People,
+Bailarin,People,
+Callejero,People,
+Compadre,People,
+Compadrito,People,
+Danzarin,People,
+Gaucho,People,
+Grela,People,
+Lunfardo,People,
+Milonguero,People,
+Mina,People,
+Morocha,People,
+Paica,People,
+Pebeta,People,
+Planchandora,People,
+Porteno,People,
+Tanguero,People,
+Taxi Dancer,People,
+Vareador,People,
+Adentro,Place,
+Afuera,Place,
+Arrabal,Place,
+Bailongo,Place,
+Bar Notables,Place,
+Barrio,Place,
+Caminito,Place,
+Cena Show,Place,
+Confiteria Bailable,Place,
+Encuentro,Place,
+Entrada,Place,
+Farolito,Place,
+Feria,Place,
+Festival,Place,
+Milonga (place),Place,
+Mundial de Baile,Place,
+Orillero,Place,
+Pista,Place,
+Practica,Place,
+Salon (Sala),Place,
+Salon Bailable,Place,
+Tangueria,Place,
+Apasionado,Style,
+Bien Parado,Style,
+Carancanfun,Style,
+Elevada,Style,
+Estilo del Centro,Style,
+Estilo Milonguero,Style,
+Estilo Villa Urquiza,Style,
+Filete,Style,
+Improvisation,Style,
+Liso,Style,
+Tango de Pista,Style,
+Tango Fantasia,Style,
+Tango for Export,Style,
+Tango Nuevo,Style,
+Alteraciones,Walking,S
+Amague,Walking,S
+Arranque,Walking,
+Arrependita,Walking,S
+Balanceo,Walking,S
+Baldosa,Walking,S
+Basico (Academico),Walking,S
+Cadena,Walking,S
+Cadencia,Walking,S
+Caida,Walking,
+Cambio de Frente,Walking,S
+Caminada,Walking,S
+Caminando Valsiado,Walking,
+Cangrejo,Walking,
+Contra Basico,Walking,S
+Contrapaso,Walking,
+Corrida,Walking,S
+Corte,Walking,
+Cross System,Walking,S
+Cruzada,Walking,
+Cuadrado,Walking,S
+Cunita,Walking,S
+En El Lugar,Walking,
+Freno,Walking,
+Inside Track,Walking,S
+Molinete,Walking,S
+Ocho Cortado,Walking,
+Outside Track,Walking,S
+Parallel System,Walking,
+Paseo,Walking,
+Paso Basico,Walking,S
+Pausa,Walking,
+Pendulum Motion,Walking,
+Rabona,Walking,
+Rebote,Walking,S
+Resolucion,Walking,S
+Salida,Walking,S
+Salida Americano,Walking,
+Salida Cruzada,Walking,S
+Salida de Gato,Walking,S
+Salida Simple,Walking,
+Seguidilla,Walking,S
+Seguir,Walking,
+Sobre Paso,Walking,
+Sube y Baja,Walking,S
+Suspension,Walking,
+Trabada,Walking,
+Va y Ven y Va,Walking,S
