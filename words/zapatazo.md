@@ -7,9 +7,7 @@ skill: S
 also: 
 related: 
 ---
-/ 
-  markdown
-  # definition
-  (replace with info)
-  # extended definition
-  (replace)
+# definition
+(replace with info)
+# extended definition
+(replace)
